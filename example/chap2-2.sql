@@ -343,7 +343,5 @@ ORDER BY p.user_id
 ;
 
 
-
-SELECT * FROM USERS
-WHERE 0 <> 0
-;
+SELECT DISTINCT 3 * 7 FROM USERS;
+    
